@@ -1,7 +1,7 @@
 <?php
 /*!
  * OnBobba API
- * Programmer by OnBobba (www.onbobba.com.br)
+ * Supported by OnBobba (www.onbobba.com.br)
  */
 
 class OnBobba {
